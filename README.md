@@ -30,18 +30,21 @@ Right now, I’m focused on:
 ![HTML5](https://img.shields.io/badge/HTML5-222?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-222?style=flat&logo=css3)
 ![Git](https://img.shields.io/badge/Git-222?style=flat&logo=git)
+![Next.js](https://img.shields.io/badge/Next.js-222?style=flat&logo=nextdotjs)
+![MySQL](https://img.shields.io/badge/MySQL-222?style=flat&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-222?style=flat&logo=php)
 
 ---
 
 ## ✨ What I Build
 
-| Area                | Examples                                                           |
-| ------------------- | ------------------------------------------------------------------ |
-| Web apps            | dashboards, booking flows, student/course systems, portfolio sites |
-| Creative interfaces | CodePen experiments, themed UI, visual storytelling pages          |
-| Full-stack projects | React frontends, Express APIs, MongoDB/SQL databases               |
-| Data projects       | exploratory analysis, prediction models, Flask dashboards          |
-| UI/UX concepts      | workflow tools, review flows, interactive prototypes               |
+| Area                | Examples                                                            |
+| ------------------- | ------------------------------------------------------------------- |
+| Web apps            | dashboards, booking flows, student/course systems, portfolio sites  |
+| Creative interfaces | CodePen experiments, themed UI, visual storytelling pages           |
+| Full-stack projects | React/Next.js frontends, Node/PHP backends, MySQL/MongoDB databases |
+| Data projects       | exploratory analysis, prediction models, Flask dashboards           |
+| UI/UX concepts      | workflow tools, review flows, interactive prototypes                |
 
 ---
 
