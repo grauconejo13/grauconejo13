@@ -1,10 +1,10 @@
 # Vanessa Victorino 👋
 
-**Software engineering student · creative web developer · UI/UX explorer**
+I build full-stack apps, creative web experiences, and practical tools with an experimental edge.
 
-I build practical apps, experimental interfaces, and small digital experiences that mix software, design, and curiosity.
+My work usually starts as a small prototype: a dashboard, a creative coding sketch, a themed web app, a portfolio experiment, or a workflow idea made tangible. Some projects are polished. Some are experiments. Both matter.
 
-My work often starts as a prototype: a dashboard, a creative coding sketch, a themed web app, a portfolio experiment, or a small tool that makes an idea feel more tangible. Some projects are polished. Some are experiments. Both matter.
+I’m interested in software that is useful, visual, and a little memorable.
 
 Right now, I’m focused on:
 
@@ -72,3 +72,9 @@ Right now, I’m focused on:
 I like software that feels less disposable.
 
 A web app can feel like a room, a notebook, a dashboard, a field guide, a receipt, a postcard, or a tiny machine. I’m interested in that space between practical software and memorable presentation.
+
+---
+
+## 🌿 Outside the Code
+
+I’m drawn to photography, travel, visual storytelling, and playful web experiments — small observations often become interface ideas.
