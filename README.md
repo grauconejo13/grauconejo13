@@ -6,7 +6,9 @@ My work usually starts as a small prototype: a dashboard, a creative coding sket
 
 I’m interested in software that is useful, visual, and a little memorable.
 
-Right now, I’m focused on:
+<img src="./assets/pudgy.png" alt="Pudgy penguin casting a big shadow" width="140">
+
+## Currently exploring
 
 - full-stack web development
 - React, JavaScript, Node.js, Express, MongoDB, and SQL
