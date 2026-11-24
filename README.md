@@ -6,7 +6,7 @@ My work usually starts as a small prototype: a dashboard, a creative coding sket
 
 I’m interested in software that is useful, visual, and a little memorable.
 
-<img src="./assets/pudgy.png" alt="Pudgy penguin casting a big shadow" width="140">
+<img src="./assets/believe-pudgy.gif" alt="Pudgy penguin casting a big shadow" width="140">
 
 ## Currently exploring
 
